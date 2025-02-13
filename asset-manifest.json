@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34c6d09f.css",
+    "main.js": "/static/js/main.a73e9a2f.js",
+    "static/media/—Pngtree—cool wave liquid background for_1917195.png": "/static/media/—Pngtree—cool wave liquid background for_1917195.8cbe1513af1610b59e24.png",
+    "index.html": "/index.html",
+    "main.34c6d09f.css.map": "/static/css/main.34c6d09f.css.map",
+    "main.a73e9a2f.js.map": "/static/js/main.a73e9a2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34c6d09f.css",
+    "static/js/main.a73e9a2f.js"
+  ]
+}
