@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.34c6d09f.css",
-    "main.js": "/static/js/main.a73e9a2f.js",
-    "static/media/—Pngtree—cool wave liquid background for_1917195.png": "/static/media/—Pngtree—cool wave liquid background for_1917195.8cbe1513af1610b59e24.png",
-    "index.html": "/index.html",
-    "main.34c6d09f.css.map": "/static/css/main.34c6d09f.css.map",
-    "main.a73e9a2f.js.map": "/static/js/main.a73e9a2f.js.map"
+    "main.css": "/ToDo-App-React/static/css/main.9262538e.css",
+    "main.js": "/ToDo-App-React/static/js/main.a73e9a2f.js",
+    "static/media/—Pngtree—cool wave liquid background for_1917195.png": "/ToDo-App-React/static/media/—Pngtree—cool wave liquid background for_1917195.8cbe1513af1610b59e24.png",
+    "index.html": "/ToDo-App-React/index.html",
+    "main.9262538e.css.map": "/ToDo-App-React/static/css/main.9262538e.css.map",
+    "main.a73e9a2f.js.map": "/ToDo-App-React/static/js/main.a73e9a2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.34c6d09f.css",
+    "static/css/main.9262538e.css",
     "static/js/main.a73e9a2f.js"
   ]
 }
