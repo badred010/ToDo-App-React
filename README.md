@@ -15,4 +15,4 @@ Eine einfache Todo-App, die mit **React** erstellt wurde. Mit dieser App kannst 
 ### Repository klonen
 Klonen Sie dieses Repository auf deinen Computer:
 ```bash
-git clone https://github.com/dein-benutzername/react-todo-app.git
+git clone https://github.com/badred010/ToDo-App-React.git
